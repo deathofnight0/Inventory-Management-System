@@ -4,7 +4,7 @@
 
 The **Inventory Management System** is a Python-based application that manages various inventory-related tasks such as adding users, handling sales, processing payments, and tracking stock. It is designed to streamline inventory operations, providing smooth and efficient management for businesses.
 
-## ## 🌟Features
+## 🌟Features
 
 - 🌐 **Interactive UI**: A user-friendly interface powered by Python's Tkinter library.
 - 🚀 **User Registration**: Easily add new users to the system with a straightforward registration process.
